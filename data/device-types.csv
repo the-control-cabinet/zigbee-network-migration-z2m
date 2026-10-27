@@ -1,0 +1,9 @@
+category,examples,power,mesh_role,notes
+Smart plugs,Sonoff iPlug-type plugs,Mains,Router,Backbone of the mesh; reporting intervals set in Z2M
+Motion / presence,PIR and presence sensors,Battery / mains,End device / router,
+Temperature / humidity,Including a pinhole-pair model,Battery,End device,Pair via the pinhole button
+Water leak,Leak sensors,Battery,End device,
+Soil moisture,Plant sensors,Battery,End device,
+Air quality,CO2/VOC sensor; PM2.5 monitor,Mains,Router,CO2/VOC needed a reporting throttle (60 s)
+Vibration,Appliance vibration sensors,Battery,End device,Used for washing-machine/dryer cycle detection
+Buttons,Wireless buttons,Battery,End device,Event triggers (availability noise fix)
